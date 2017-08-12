@@ -1,0 +1,9 @@
+carousell/pages/AppPage.class
+carousell/pages/ConfirmOfferPage.class
+carousell/pages/BasePage.class
+carousell/pages/ListingPage.class
+carousell/checker/OfferChatPageChecker.class
+carousell/pages/LoginPage.class
+carousell/pages/OfferPage.class
+carousell/pages/OfferChatPage.class
+carousell/pages/DashboardPage.class
